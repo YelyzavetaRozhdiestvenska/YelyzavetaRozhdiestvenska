@@ -32,10 +32,11 @@ Here are some ideas to get you started:
 -->
 
 ---
-🏆Github Profile Trophy
+##🏆Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YelyzavetaRozhdiestvenska)](https://github.com/ryo-ma/github-profile-trophy)
----
+
+</br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -51,4 +52,14 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  
+</div>
+
+</br>
+
+<div>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YelyzavetaRozhdiestvenska&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YelyzavetaRozhdiestvenska&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YelyzavetaRozhdiestvenska&theme=github"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YelyzavetaRozhdiestvenska&theme=github"/>
+    <img/>
 </div>
