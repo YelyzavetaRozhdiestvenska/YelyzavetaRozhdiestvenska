@@ -54,8 +54,9 @@ Here are some ideas to get you started:
  
 </div>
 
-</br>
+---
 
+</br>
 <div>
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YelyzavetaRozhdiestvenska&theme=github"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YelyzavetaRozhdiestvenska&theme=github"/>
