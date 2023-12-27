@@ -4,8 +4,19 @@
 
 
 ### Hi there 👋
+<h1 align="center">
+  Hi, welcome to my GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+<img src="https://www.publicdomainpictures.net/ru/view-image.php?image=541456&picture=-" width="1920" height="auto"/> 
+</div>
+
+
 
 <!--
+
 **YelyzavetaRozhdiestvenska/YelyzavetaRozhdiestvenska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
