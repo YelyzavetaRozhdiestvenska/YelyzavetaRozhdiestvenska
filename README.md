@@ -31,7 +31,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+🏆Github Profile Trophy
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YelyzavetaRozhdiestvenska)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,7 +49,6 @@ Here are some ideas to get you started:
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="typescript " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode " width="40" height="40"/>&nbsp;
-   <img src="https://logowik.com/axios-logo-vector-svg-pdf-ai-eps-cdr-free-download-15867.html" title="axios" alt="axios " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
  
 </div>
