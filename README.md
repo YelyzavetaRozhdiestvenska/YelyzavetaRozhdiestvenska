@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-##🏆Github Profile Trophy
+🏆Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YelyzavetaRozhdiestvenska)](https://github.com/ryo-ma/github-profile-trophy)
 
