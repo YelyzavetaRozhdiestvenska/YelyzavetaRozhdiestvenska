@@ -1,19 +1,8 @@
-<!-- <div id="header" align="center">
-   <iframe src="https://giphy.com/embed/csYkWsVSZTzcSSU7oA" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cyber-monday-sale-mon-csYkWsVSZTzcSSU7oA">via GIPHY</a></p>
-</div>
--->
-
-
-<h1 align="center">
-  Hi, welcome to my GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-<img src="https://www.publicdomainpictures.net/ru/view-image.php?image=541456&picture=-" width="1920" height="auto"/> 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
 
-
+<img src="https://www.publicdomainpictures.net/pictures/550000/velka/hond-teckel-computer.png" width="1920" height="auto"/>
 
 <!--
 
@@ -32,6 +21,7 @@ Here are some ideas to get you started:
 -->
 
 ---
+
 🏆Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YelyzavetaRozhdiestvenska)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,6 +29,7 @@ Here are some ideas to get you started:
 </br>
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
