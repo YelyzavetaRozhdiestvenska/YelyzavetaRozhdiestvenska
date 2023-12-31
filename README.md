@@ -14,7 +14,12 @@
   </a>
 </div>
 
-<img src="https://www.publicdomainpictures.net/pictures/550000/velka/hond-teckel-computer.png" width="1000" height="auto"/>
+<h1 align="center">
+  Hi, welcome to my GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<img src="https://www.publicdomainpictures.net/pictures/550000/velka/hond-teckel-computer.png" width="900" height="auto"/>
 
 ### About Me :
 
