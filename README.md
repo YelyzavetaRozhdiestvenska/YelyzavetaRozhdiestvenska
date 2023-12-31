@@ -2,15 +2,15 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yelizaveta-r-61a9b5264/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="YelyzavetaRR">
+  <a href="@YelyzavetaRR">
     <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="alirr@ukr.net">
-    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=e&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.facebook.com/profile.php?id=100028130003716">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
