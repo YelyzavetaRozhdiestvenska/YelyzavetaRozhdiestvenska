@@ -2,27 +2,34 @@
   <img src="https://media.giphy.com/media/fgLPuyyoxzl3166xGo/giphy-downsized-large.gif" width="100"/>
 </div>
 
-<img src="https://www.publicdomainpictures.net/pictures/550000/velka/hond-teckel-computer.png" width="1920" height="auto"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/yelizaveta-r-61a9b5264/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="YelyzavetaRR">
+    <img src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="alirr@ukr.net">
+    <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=e&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<!--
+<img src="https://www.publicdomainpictures.net/pictures/550000/velka/hond-teckel-computer.png" width="1000" height="auto"/>
 
-**YelyzavetaRozhdiestvenska/YelyzavetaRozhdiestvenska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me :
 
-Here are some ideas to get you started:
+I am a future Full Stack Developer from Ukraine <img src="https://media.giphy.com/media/GVdqiRZjAcYumSkCbT/giphy.gif" width="25">. Now I live in Germany in Dessau-Rosslau with my family.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I'm currently studying to become a Fullstack developer at Goit
+- 👨‍🎓 I’m currently learning React Redux, React, Java Script, HTML5, Styled Components, CSS3, Type Script.
+- 📖 I love old cars and dogs.
+- 📖 I have many hobbies. But the goal of all my hobbies is the same - to make something beautiful with my own hands.
+- 🌎 I speak Ukrainian and Russian fluently, English - intermediate, German - B2.
+- 📫 Reach me by [email](mailto:alirr@ukr.net)
 
 ---
 
-🏆Github Profile Trophy
+### 🏆Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YelyzavetaRozhdiestvenska)](https://github.com/ryo-ma/github-profile-trophy)
 
