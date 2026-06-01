@@ -54,11 +54,13 @@ I am a future Full Stack Developer from Ukraine <img src="https://media.giphy.co
    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="typescript " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="vscode " width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://jsdelivr.net" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://jsdelivr.net" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
-   <img src="https://jsdelivr.net" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-   <img src="https://jsdelivr.net" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-   <img src="https://jsdelivr.net" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" title="Spring Boot" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://jsdelivr.net" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
+
+   
  
 </div>
 
